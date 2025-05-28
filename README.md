@@ -17,7 +17,7 @@ Cada proyecto incluye:
 - **Cargo**  
 - **Fecha**  
 - **Descripción del proyecto**  
-- **Funciones principales**, redactadas en formato de viñetas  
+- **Funciones principales**
 - **Referencia profesional o institucional**
 
 Este documento complementa la información de mi currículum con una descripción técnica y estructurada de las funciones que he desempeñado a lo largo de mi trayectoria.
